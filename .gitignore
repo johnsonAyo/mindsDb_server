@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+
+# macOS
+.DS_Store
+
+.env
+# Dependency lock files
+package-lock.json
+yarn.lock
